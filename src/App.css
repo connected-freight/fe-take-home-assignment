@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.App__container {
+  max-width: 1028px;
+  margin: auto;
+  padding: 16px;
+  text-align: center;
+}
+
+.Nav__container {
+  padding: 8px;
+}
+
+.Nav__container a {
+  padding: 8px;
+}
+
+.Nav__container a:not(:last-child) {
+  border-right: dashed;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: steelblue;
+}
